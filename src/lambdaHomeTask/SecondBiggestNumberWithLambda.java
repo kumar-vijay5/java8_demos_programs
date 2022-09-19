@@ -16,7 +16,7 @@ class SecondBiggestNumberWithLambda {
 			System.out.println("This is the sorting order"+list);
 			System.out.println("This second biggest number"+list.get(list.size()-n));
 		};
-		sec.findSecondBigNumb(1);
+		sec.findSecondBigNumb(2);
 	}
 }
 
