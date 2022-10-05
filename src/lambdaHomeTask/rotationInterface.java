@@ -1,4 +1,4 @@
-package lambdaHomeTask;
+package JavaFuncPrograms.src.lambdaHomeTask;
 
 @FunctionalInterface
 public interface rotationInterface {

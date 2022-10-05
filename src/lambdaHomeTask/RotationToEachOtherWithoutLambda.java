@@ -1,4 +1,4 @@
-package lambdaHomeTask;
+package JavaFuncPrograms.src.lambdaHomeTask;
 
 public class RotationToEachOtherWithoutLambda {
 
